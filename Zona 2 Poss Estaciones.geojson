@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Zona 2 Poss Estaciones",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "qc_id": 0, "name": "Plaza Americas", "description": null, "timestamp": null, "begin": null, "end": null, "altitudemode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "draworder": null, "icon": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -98.750809683456495, 20.10063235866853, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 1, "name": "Plaza Gran Patio", "description": null, "timestamp": null, "begin": null, "end": null, "altitudemode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "draworder": null, "icon": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -98.758613817433442, 20.092952034589342, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 2, "name": "Plaza La Valentina", "description": null, "timestamp": null, "begin": null, "end": null, "altitudemode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "draworder": null, "icon": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -98.756262509396691, 20.09302395105415, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 3, "name": "ITESM Estacionamiento Hgo", "description": null, "timestamp": null, "begin": null, "end": null, "altitudemode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "draworder": null, "icon": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -98.765080882948808, 20.094419511680979, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 4, "name": "Mega Comercial 192 Pachuca", "description": null, "timestamp": null, "begin": null, "end": null, "altitudemode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "draworder": null, "icon": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -98.754290650641849, 20.090037292744899, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 5, "name": "Autozone refacciones", "description": null, "timestamp": null, "begin": null, "end": null, "altitudemode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "draworder": null, "icon": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -98.762758356657059, 20.09919058558981, 0.0 ] ] } }
+]
+}
